@@ -18,7 +18,10 @@
   },
   "homepage": "https://github.com/RachidaSK/TinyImprovements#readme",
   "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
     "express": "^4.16.4",
-    "mongoose": "^5.3.13"
+    "mongoose": "^5.3.13",
+    "morgan": "^1.9.1",
+    "request": "^2.88.0"
   }
 }
