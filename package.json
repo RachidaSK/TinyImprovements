@@ -1,0 +1,24 @@
+{
+  "name": "tinyimprovements",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RachidaSK/TinyImprovements.git"
+  },
+  "author": "Rachida Kone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RachidaSK/TinyImprovements/issues"
+  },
+  "homepage": "https://github.com/RachidaSK/TinyImprovements#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.3.13"
+  }
+}
