@@ -30,6 +30,7 @@ console.log("Mongoose connection successful")
 })
 
 require("./routes/api-routes")(app);
+require("./routes/html-routes")(app);
 
 app.listen(PORT, function(){
  console.log(`App is now listening on port : http://localhost:${PORT}`)
